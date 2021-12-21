@@ -1,8 +1,16 @@
-<html>
-<head>
-<title> Home Page </title>
-</head>
-<body>
-<h1> This is going to be Saketh's website! </h1>
-</body>
-</html>
+---
+layout: default
+---
+<h1> This is going to be Saketh's website </h1>
+<div id="site">
+  {% include switch.html %}
+  {% include intro.html %}
+  {% include background.html %}
+  {% include skills.html %}
+  {% include experience.html %}
+  {% include featured-projects.html %}
+  {% include other-projects.html %}
+  {% include footer.html %}
+  {% include top-button.html %}
+</div>
+
