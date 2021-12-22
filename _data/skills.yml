@@ -10,10 +10,14 @@ languages:
 frameworks:
   - item: React
   - item: Wordpress
-  
+  - item: Django
+  - item: Bootstrap  
 tools:
   - item: Bash
   - item: Git & Github
   - item: Chrome DevTools
   - item: Visual Studio Code
   - item: Jupyter
+design:
+  - item: Figma
+  - item: lucidchart
