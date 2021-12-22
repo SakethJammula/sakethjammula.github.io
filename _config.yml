@@ -11,16 +11,10 @@ resume: https://sakethjammula.github.io/resume.pdf
 social:
   - title: email
     url: mailto:SakethReddy.Jammula@uga.edu
-  - title: twitter
-    url: ''
-  - title: instagram
-    url: ''
-  - title: codepen
-    url: ''
   - title: github
     url: https://github.com/sakethjammula
   - title: linkedin
-    url: ''
+    url: https://www.linkedin.com/in/sakethjammula/
 
 # Build settings
 markdown: kramdown
