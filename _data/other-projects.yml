@@ -1,10 +1,8 @@
-- name: Project Name goes here
-  url: Project URL
-  code: github source code
-  description: Description of the project
+- name: Flipkart-Product-Pricing-and-Specifications
+  url: https://sakethjammula.github.io/Flipkart-Product-Pricing-and-Specifications/
+  code: https://github.com/SakethJammula/Flipkart-Product-Pricing-and-Specifications
+  description: Web Scraper tool desinged to extract data from Flipkart website about the price and specifications of a certain product. Used Beautiful Soap python library and requests library to extract the data from Flipkart website.
   used:
-    - thing: HTML
-    - thing: CSS
-    - thing: PHP
-    - thing: mysql
-    - thing: phpmyadmin
+    - thing: Python
+    - thing: BeautifulSoup
+    - thing: Google Collab
